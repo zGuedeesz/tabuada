@@ -1,0 +1,83 @@
+body {
+    background: rgba(6, 155, 241, 0.39);
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    
+}
+
+section {
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+}
+div {
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+#seltab {
+    text-align: center;
+    border: none;
+    overflow: hidden;
+    margin-left: 175px;
+}
+
+option {
+    padding: 15px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
+body {
+    background: rgba(1, 26, 255, 0.39);
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    
+}
+
+section {
+    background: white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+}
+div {
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+#seltab {
+    text-align: center;
+    border: none;
+    overflow: hidden;
+    margin-left: 175px;
+}
+
+option {
+    padding: 15px;
+    font-size: 15pt;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+}
